@@ -1,0 +1,48 @@
+Table,Column,Description
+CRM, customer_id              , Unique Identifier for the Customer                
+CRM, customer_name            , Full Name of the Customer                         
+CRM, customer_address         , Customer's Address                                
+CRM, contact_number           , Customer's Contact Number                         
+CRM, customer_email           , Customer's Email Address                          
+CRM, employer_name            , Customer's Employer Name                          
+CRM, employment_status        ," Employment Status (e.g., Employed, Unemployed)    "
+CRM, credit_rating            , Customer's Credit Rating                          
+CRM, account_id               , Unique Identifier for the Account                 
+CRM, account_holder_name      , Account Holder's Full Name                       
+CRM, account_type             ," Type of Account (e.g., Savings, Checking)         "
+CRM, account_balance          , Current Account Balance                           
+CRM, account_open_date        , Date of Account Opening                           
+CRM, last_transaction_date    , Date of Last Transaction                          
+CRM, branch_location          , Branch Location Code                              
+CRM, account_status           ," Account Status (e.g., Active, Closed)             "
+CRM, interest_rate            , Annual Interest Rate                              
+CRM, overdraft_eligible       , Overdraft Eligibility                             
+CRM, overdraft_limit          , Maximum Overdraft Limit                           
+CRM, last_deposit_amount      , Amount of Last Deposit                            
+CRM, last_withdrawal_amount   , Amount of Last Withdrawal                         
+CRM, last_fee_charged         , Amount of Last Charged Fees                       
+CRM, last_interest_earned     , Amount of Last Accrued Interest                   
+CRM, daily_transaction_limit  , Daily Transaction Limit                           
+CRM, debit_card_issued        , Debit Card Issued Status                          
+CRM, credit_card_issued       , Credit Card Issued Status                         
+CRM, loan_status              , Loan Status (if applicable)                       
+CRM, approved_loan_amount     , Approved Loan Amount (if applicable)              
+CRM, loan_interest_rate       , Loan Interest Rate (if applicable)               
+CRM, loan_maturity_date       , Loan Maturity Date (if applicable)               
+CRM, insurance_coverage       , Insurance Coverage Status                        
+CRM, transaction_history      , Summary of Recent Transactions                    
+CRM, preferred_communication  ," Preferred Communication Method (e.g., Email, Phone) "
+CRM, marketing_opt_in         , Marketing Opt-in Status                           
+CRM, last_contact_date        , Date of Last Customer Contact                     
+CRM, lead_source              ," Source of Customer Lead (e.g., Referral, Advertisement) "
+CRM, customer_segment         ," Customer Segment (e.g., Retail, Business)        "
+CRM, relationship_manager     , Relationship Manager's Name                      
+CRM, lead_conversion_date     , Date of Lead Conversion (to Account)              
+CRM, account_type_description , Description of Account Type                      
+CRM, account_currency         , Currency of the Account                           
+CRM, account_subtype          , Subtype of the Account                            
+CRM, joint_account_holder     , Name of Joint Account Holder                      
+CRM, statement_frequency      , Frequency of Account Statements                   
+CRM, transaction_limit        , Account Transaction Limit                        
+CRM, online_banking_access    , Online Banking Access Status                     
+CRM, cheque_book_issued       , Cheque Book Issued Status                        

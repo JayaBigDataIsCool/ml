@@ -1,0 +1,31 @@
+TableName,ColumnName,Description
+Legacy,ACC_ID,Account ID
+Legacy,ACC_NAME,Account Holder's Name
+Legacy,ACC_TYPE,"Account Type (e.g., Savings, Checking)"
+Legacy,BALANCE,Account Balance
+Legacy,OPEN_DATE,Account Opening Date
+Legacy,LAST_TXN,Last Transaction Date
+Legacy,BRANCH_ID,Branch ID
+Legacy,ACCT_STATUS,"Account Status (e.g., Active, Closed)"
+Legacy,INTEREST,Interest Rate
+Legacy,OVERDRAFT,Overdraft Flag
+Legacy,OVERDRAFT_LIMIT,Overdraft Limit
+Legacy,LAST_DEPOSIT,Amount of Last Deposit
+Legacy,LAST_WITHDRAWAL,Amount of Last Withdrawal
+Legacy,LAST_FEES,Last Charged Fees
+Legacy,LAST_INTEREST,Last Accrued Interest
+Legacy,ADDRESS,Account Holder's Address
+Legacy,PHONE,Account Holder's Phone Number
+Legacy,EMAIL,Account Holder's Email
+Legacy,EMPLOYER,Account Holder's Employer
+Legacy,EMPLOYMENT_STATUS,"Employment Status (e.g., Employed, Unemployed)"
+Legacy,CREDIT_SCORE,Credit Score
+Legacy,TRANSACTION_LIMIT,Daily Transaction Limit
+Legacy,TRANSACTION_HISTORY,Transaction History (Details of recent transactions)
+Legacy,DEBIT_CARD,Debit Card Issued
+Legacy,CREDIT_CARD,Credit Card Issued
+Legacy,LOAN_STATUS,Loan Status (if applicable)
+Legacy,LOAN_AMOUNT,Approved Loan Amount (if applicable)
+Legacy,LOAN_INTEREST_RATE,Loan Interest Rate (if applicable)
+Legacy,MATURED_DATE,Loan Maturity Date (if applicable)
+Legacy,INSURANCE,Insurance Coverage

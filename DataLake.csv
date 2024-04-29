@@ -1,0 +1,77 @@
+Table,ColumnName,Description
+Datalake,customer_id,Unique identifier for each customer.
+Datalake,customer_name,Full name of the customer.
+Datalake,customer_address,Residential address of the customer.
+Datalake,contact_number,Primary contact number for the customer.
+Datalake,customer_email,Email address of the customer.
+Datalake,customer_birthdate,Date of birth of the customer.
+Datalake,customer_gender,"Gender of the customer (e.g., Male, Female, Other)."
+Datalake,customer_nationality,Nationality of the customer.
+Datalake,customer_employment_status,"Current employment status of the customer (e.g., Employed, Unemployed)."
+Datalake,customer_employer,Name of the customer's employer.
+Datalake,customer_annual_income,Annual income of the customer.
+Datalake,account_id,Unique identifier for each account.
+Datalake,account_type,"Type of account (e.g., Savings, Checking)."
+Datalake,account_balance,Current balance in the account.
+Datalake,account_open_date,Date when the account was opened.
+Datalake,account_status,"Status of the account (e.g., Active, Closed)."
+Datalake,account_interest_rate,Annual interest rate associated with the account.
+Datalake,account_overdraft_flag,Flag indicating whether overdraft is available for the account.
+Datalake,account_overdraft_limit,Maximum overdraft limit allowed for the account.
+Datalake,transaction_id,Unique identifier for each transaction.
+Datalake,transaction_date,Date and time when the transaction occurred.
+Datalake,transaction_type,"Type of transaction (e.g., Deposit, Withdrawal, Transfer)."
+Datalake,transaction_amount,Amount involved in the transaction.
+Datalake,transaction_description,Detailed description of the transaction.
+Datalake,transaction_category,"Category of the transaction (e.g., Salary, Utilities, Grocery)."
+Datalake,transaction_merchant,Merchant involved in the transaction (if applicable).
+Datalake,transaction_location,Location where the transaction occurred.
+Datalake,loan_id,Unique identifier for each loan.
+Datalake,loan_amount,Total amount of the loan.
+Datalake,loan_interest_rate,Interest rate associated with the loan.
+Datalake,loan_term,Term or duration of the loan (in months).
+Datalake,loan_approval_date,Date when the loan was approved.
+Datalake,loan_maturity_date,Date when the loan is expected to mature.
+Datalake,loan_status,"Status of the loan (e.g., Approved, Pending, Repaid)."
+Datalake,credit_card_id,Unique identifier for each credit card.
+Datalake,credit_card_limit,Credit limit associated with the credit card.
+Datalake,credit_card_type,"Type of credit card (e.g., Visa, MasterCard)."
+Datalake,credit_card_expiry_date,Expiry date of the credit card.
+Datalake,credit_card_status,"Status of the credit card (e.g., Active, Expired)."
+Datalake,insurance_id,Unique identifier for each insurance policy.
+Datalake,insurance_type,"Type of insurance (e.g., Life, Health, Property)."
+Datalake,insurance_coverage_amount,Coverage amount provided by the insurance policy.
+Datalake,insurance_premium_amount,Premium amount to be paid for the insurance policy.
+Datalake,insurance_start_date,Start date of the insurance coverage.
+Datalake,insurance_end_date,End date of the insurance coverage.
+Datalake,credit_score,Credit score of the customer.
+Datalake,credit_history,Detailed credit history information.
+Datalake,branch_id,Unique identifier for each branch.
+Datalake,branch_name,Name of the branch.
+Datalake,branch_location,Location of the branch.
+Datalake,branch_manager,Name of the branch manager.
+Datalake,atm_id,Unique identifier for each ATM.
+Datalake,atm_location,Location of the ATM.
+Datalake,atm_status,"Status of the ATM (e.g., Active, Out of Service)."
+Datalake,debit_card_id,Unique identifier for each debit card.
+Datalake,debit_card_type,"Type of debit card (e.g., Visa Debit, MasterCard Debit)."
+Datalake,debit_card_expiry_date,Expiry date of the debit card.
+Datalake,debit_card_status,"Status of the debit card (e.g., Active, Expired)."
+Datalake,credit_score_history,Historical credit score information for the customer.
+Datalake,marketing_opt_in,Indicates whether the customer has opted in for marketing communications.
+Datalake,preferred_communication,"Preferred communication method for the customer (e.g., Email, Phone)."
+Datalake,last_contact_date,Date of the last contact with the customer.
+Datalake,lead_source,Source through which the customer lead was obtained.
+Datalake,customer_segment,"Segment to which the customer belongs (e.g., Retail, Business)."
+Datalake,relationship_manager,Name of the relationship manager assigned to the customer.
+Datalake,lead_conversion_date,Date when the customer lead was converted to an account.
+Datalake,account_type_description,Description of the account type.
+Datalake,account_currency,Currency associated with the account.
+Datalake,account_subtype,Subtype of the account.
+Datalake,joint_account_holder,Name of the joint account holder.
+Datalake,statement_frequency,Frequency at which account statements are generated.
+Datalake,transaction_limit,Transaction limit associated with the account.
+Datalake,online_banking_access,Indicates whether the customer has access to online banking.
+Datalake,cheque_book_issued,Indicates whether a cheque book has been issued for the account.
+Datalake,mobile_banking_access,Indicates whether the customer has access to mobile banking.
+Datalake,mobile_banking_app_version,Version of the mobile

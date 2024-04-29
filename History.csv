@@ -1,0 +1,46 @@
+Table,ColumnName,Description
+History,HIST_ACC_IDENT,Historical Account Identifier. Unique ID for historical accounts.
+History,HIST_ACC_HOLDER,Name of the Account Holder during the historical period.
+History,HIST_ACC_CATEGORY,"Account Category during the historical era (e.g., Savings, Checking)."
+History,HIST_ACC_BAL,Balance of the Account during the historical time frame.
+History,HIST_ACC_OPEN_DT,Date when the Account was opened historically.
+History,HIST_LAST_TXN_DT,Date of the Last Transaction during the historical period.
+History,HIST_BRANCH_LOC,Historical Branch Location Code where the account was held.
+History,HIST_ACC_STAT,"Historical Account Status (e.g., Active, Closed) during the past."
+History,HIST_INT_RATE,Historical Annual Interest Rate on the account.
+History,HIST_OVERDRFT_FLAG,Historical Overdraft Flag indicating overdraft availability.
+History,HIST_OVERDRFT_LIMIT,Maximum Overdraft Limit historically allowed on the account.
+History,HIST_LAST_DEP_AMT,Amount of Last Deposit historically recorded.
+History,HIST_LAST_WITHDRAW_AMT,Amount of Last Withdrawal during the historical period.
+History,HIST_LAST_FEES_CHARGED,Amount of Last Charged Fees historically on the account.
+History,HIST_LAST_INT_EARNED,Amount of Last Accrued Interest historically on the account.
+History,HIST_ACC_ADDRESS,Address of the Account Holder during historical times.
+History,HIST_CONTACT_NUM,Contact Number of the Account Holder in the historical context.
+History,HIST_EMAIL,Email Address of the Account Holder historically.
+History,HIST_EMPLOYER_NAME,Name of the Account Holder's Employer in the past.
+History,HIST_EMP_STATUS,"Employment Status (e.g., Employed, Unemployed) historically."
+History,HIST_CREDIT_SCORE,Historical Credit Score of the Account Holder.
+History,HIST_TXN_LIMIT,Historical Daily Transaction Limit on the account.
+History,HIST_TXN_HISTORY,Summary of Recent Transactions historically on the account.
+History,HIST_DEBIT_CARD_ISSUED,Historical Debit Card Issued Status on the account.
+History,HIST_CREDIT_CARD_ISSUED,Historical Credit Card Issued Status on the account.
+History,HIST_LOAN_STATUS,Historical Loan Status (if applicable) on the account.
+History,HIST_APPROVED_LOAN_AMT,Historical Approved Loan Amount (if applicable) on the account.
+History,HIST_LOAN_INT_RATE,Historical Loan Interest Rate (if applicable) on the account.
+History,HIST_LOAN_MATURITY_DT,Historical Loan Maturity Date (if applicable) on the account.
+History,HIST_INSURANCE_COV,Historical Insurance Coverage Status on the account.
+History,HIST_COMM_PREF,"Historical Preferred Communication Method (e.g., Email, Phone)."
+History,HIST_MARKETING_OPT_IN,Historical Marketing Opt-in Status on the account.
+History,HIST_LAST_CONTACT_DT,Date of Last Customer Contact historically.
+History,HIST_LEAD_SOURCE,"Historical Source of Customer Lead (e.g., Referral, Advertisement)."
+History,HIST_CUST_SEGMENT,"Historical Customer Segment (e.g., Retail, Business)."
+History,HIST_RELATION_MGR,Historical Relationship Manager's Name.
+History,HIST_LEAD_CONV_DT,Historical Date of Lead Conversion (to Account).
+History,HIST_ACC_TYPE_DESC,Historical Description of Account Type.
+History,HIST_ACC_CURRENCY,Historical Currency of the Account.
+History,HIST_ACC_SUBTYPE,Historical Subtype of the Account.
+History,HIST_JOINT_ACC_HOLDER,Name of Historical Joint Account Holder.
+History,HIST_STMT_FREQ,Historical Frequency of Account Statements.
+History,HIST_TXN_LIMIT_NEW,Historical New Transaction Limit on the account.
+History,HIST_ONLINE_BANK_ACCESS,Historical Online Banking Access Status on the account.
+History,HIST_CHEQUE_BOOK_ISSUED,Historical Cheque Book Issued Status on the account.
